@@ -13,7 +13,7 @@ function ex5(){
    console.log(valorTerreno);
 
 }
-ex6()
+
 
 function ex6(){
  let km = prompt("Quantos km foram pecorridos?");
@@ -23,6 +23,15 @@ function ex6(){
  alert(`SEU CARRO FAZ ${resultado} Km com L` );
 
 }
+ex6();
+
+
+
+
+
+
+
+
 
 
  
